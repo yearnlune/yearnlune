@@ -1,4 +1,4 @@
-# TECH STACK
+# TECH STACK 🎉
 ![java](https://yearnlune.github.io/assets/images/techstack/java.png)
 ![spring](https://yearnlune.github.io/assets/images/techstack/spring.png)
 ![gradle](https://yearnlune.github.io/assets/images/techstack/gradle.png)
