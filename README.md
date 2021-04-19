@@ -10,7 +10,7 @@
 ![mongodb](https://yearnlune.github.io/assets/images/techstack/mongodb.png)
 ![redis](https://yearnlune.github.io/assets/images/techstack/redis.png)
 ![rabbitmq](https://yearnlune.github.io/assets/images/techstack/rabbitmq.png)
-![express](https://yearnlune.github.io/assets/images/techstack/express.png)
+![express](https://yearnlune.github.io/assets/images/techstack/expressNew.png)
 ![apollo](https://yearnlune.github.io/assets/images/techstack/apollo.png)
 ![graphql](https://yearnlune.github.io/assets/images/techstack/graphql.png)
 ![vue](https://yearnlune.github.io/assets/images/techstack/vue.png)
