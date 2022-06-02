@@ -1,5 +1,6 @@
 # TECH STACK 🎉
 ![java](https://yearnlune.github.io/assets/images/techstack/java.png)
+![kotlin](https://yearnlune.github.io/assets/images/techstack/kotlin.png)
 ![spring](https://yearnlune.github.io/assets/images/techstack/spring.png)
 ![gradle](https://yearnlune.github.io/assets/images/techstack/gradle.png)
 ![ts](https://yearnlune.github.io/assets/images/techstack/ts.png)
@@ -21,8 +22,3 @@
 ![electron](https://yearnlune.github.io/assets/images/techstack/electron.png)
 ![helm](https://yearnlune.github.io/assets/images/techstack/helm.png)
 ![yaml](https://yearnlune.github.io/assets/images/techstack/yaml.png)
-
-　
-# 2021 GOAL 🎉
-![kotlin](https://yearnlune.github.io/assets/images/techstack/kotlin.png)
-![css3](https://yearnlune.github.io/assets/images/techstack/css3.png)
